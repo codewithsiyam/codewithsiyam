@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://github.com/codewithsiyam">
-  <img src="./assets/hero.svg" alt="MD. Siyamul Islam — EEE, software, AI, embedded systems and robotics." width="100%" />
+  <img src="./hero.svg" alt="MD. Siyamul Islam — EEE, software, AI, embedded systems and robotics." width="100%" />
 </a>
 
 <br/><br/>
@@ -48,7 +48,7 @@ So rather than choosing between hardware and software, I'm exploring the space w
 I'm building my skills step by step rather than trying to master everything at once.
 
 <div align="center">
-  <img src="./assets/direction.svg" alt="Career direction: EEE foundation, software engineering, AI and machine learning, embedded systems, robotics and automation, and real-world products." width="100%" />
+  <img src="./direction.svg" alt="Career direction: EEE foundation, software engineering, AI and machine learning, embedded systems, robotics and automation, and real-world products." width="100%" />
 </div>
 
 The direction is:
@@ -64,7 +64,7 @@ This is a long-term path. Some areas are current skills, some are active learnin
 For me, the two sides solve different parts of the same problem.
 
 | EEE / Electronics                   | Software Engineering                            | AI / ML                                      |
-| ----------------------------------- | ----------------------------------------------- | -------------------------------------------- |
+| ------------------------------------ | ------------------------------------------------ | ---------------------------------------------- |
 | Understand the physical system      | Build the logic and applications                | Make systems more data-driven and adaptive   |
 | Sensors, circuits, signals, control | Algorithms, APIs, applications, backend systems | Patterns, predictions, intelligent decisions |
 | Hardware interaction                | Digital systems and automation                  | Smarter behaviour                            |
@@ -89,7 +89,7 @@ That system-level thinking is what interests me most.
 <br/>
 
 | Area                | Technologies                           | Current focus                                         |
-| ------------------- | -------------------------------------- | ----------------------------------------------------- |
+| -------------------- | ---------------------------------------- | -------------------------------------------------------- |
 | **Programming**     | C, C++, JavaScript, TypeScript, Python | Fundamentals, problem solving and clean logic         |
 | **Web**             | HTML, CSS, React, Vite, Tailwind CSS   | Frontend development and modern UI                    |
 | **Backend**         | Node.js, Express, REST APIs, MongoDB   | Learning backend development and data flow            |
@@ -175,7 +175,7 @@ Future projects around microcontrollers, sensors, motors, control systems, autom
 ## How I learn and build
 
 <div align="center">
-  <img src="./assets/engineering-flow.svg" alt="Engineering workflow: understand, learn fundamentals, build, test, debug, improve and repeat." width="100%" />
+  <img src="./engineering-flow.svg" alt="Engineering workflow: understand, learn fundamentals, build, test, debug, improve and repeat." width="100%" />
 </div>
 
 <br/>
@@ -242,7 +242,7 @@ I'm also interested in meeting people who are learning, building, experimenting,
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/siyamul-islam-61a64143">
+<a href="https://www.linkedin.com/in/siyamul-islam-61a64143b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:siyam.official.connect@gmail.com">
@@ -251,6 +251,6 @@ I'm also interested in meeting people who are learning, building, experimenting,
 
 <br/><br/>
 
-<img src="./assets/footer.svg" alt="SI — EEE, software, AI, embedded systems and robotics." width="100%" />
+<img src="./footer.svg" alt="SI — EEE, software, AI, embedded systems and robotics." width="100%" />
 
 </div>
